@@ -1,0 +1,22 @@
+/* Write your code here. */
+.thumb-nail {
+  border-radius: 10px;
+  margin-right: 20px;
+  border: 0px;
+  background-color: white;
+  margin: 10px;
+}
+.thumbnail-listitem-container {
+  display: flex;
+  padding: 0px;
+  background-size: contain;
+}
+.img {
+  width: 70px;
+  height: 70px;
+  background-size: cover;
+  opacity: 0.5;
+}
+.highlight {
+  opacity: 100%;
+}
